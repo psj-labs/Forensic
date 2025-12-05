@@ -1,0 +1,2 @@
+adb devices 
+adb logcat -d > system_logs.txt
