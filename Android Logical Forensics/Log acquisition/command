@@ -1,2 +1,14 @@
+[설치 명령어]
+
+(Linux / Parrot / Kail / Ubuntu)
+sudo apt update && sudo apt install android-tools-adb android-tools-fastboot -y
+
+(MacOS)
+brew install android-platform-tools
+
+____________________________________________________________________________________
+
+[실행 명령어]
+
 adb devices 
 adb logcat -d > system_logs.txt
