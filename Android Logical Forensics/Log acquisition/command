@@ -4,9 +4,8 @@
 sudo apt update && sudo apt install android-tools-adb android-tools-fastboot -y
 
 (MacOS)
-brew install android-platform-tools
 
-____________________________________________________________________________________
+brew install android-platform-tools
 
 [실행 명령어]
 
